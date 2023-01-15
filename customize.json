@@ -5,7 +5,7 @@
   "wishText": "Lười hơn",
   "imagePath": "img/gudetama.jpg",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -14,10 +14,10 @@
   "text5Entry": "Because,",
   "text5Content": "You are Special",
   "smiley": ":)",
-  "bigTextPart1": "S",
-  "bigTextPart2": "O",
+  "bigTextPart1": "➝",
+  "bigTextPart2": " ➝",
   "wishHeading": "Happy Birthday!",
   "outroText": "...",
   "replayText": "..",
-  "outroSmiley": ".)"
+  "outroSmiley": ":)"
 }
